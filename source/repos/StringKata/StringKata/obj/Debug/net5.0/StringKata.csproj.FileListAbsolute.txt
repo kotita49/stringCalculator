@@ -1,0 +1,12 @@
+C:\Users\Tatyana\source\repos\StringKata\StringKata\bin\Debug\net5.0\StringKata.deps.json
+C:\Users\Tatyana\source\repos\StringKata\StringKata\bin\Debug\net5.0\StringKata.dll
+C:\Users\Tatyana\source\repos\StringKata\StringKata\bin\Debug\net5.0\ref\StringKata.dll
+C:\Users\Tatyana\source\repos\StringKata\StringKata\bin\Debug\net5.0\StringKata.pdb
+C:\Users\Tatyana\source\repos\StringKata\StringKata\obj\Debug\net5.0\StringKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatyana\source\repos\StringKata\StringKata\obj\Debug\net5.0\StringKata.AssemblyInfoInputs.cache
+C:\Users\Tatyana\source\repos\StringKata\StringKata\obj\Debug\net5.0\StringKata.AssemblyInfo.cs
+C:\Users\Tatyana\source\repos\StringKata\StringKata\obj\Debug\net5.0\StringKata.csproj.CoreCompileInputs.cache
+C:\Users\Tatyana\source\repos\StringKata\StringKata\obj\Debug\net5.0\StringKata.dll
+C:\Users\Tatyana\source\repos\StringKata\StringKata\obj\Debug\net5.0\ref\StringKata.dll
+C:\Users\Tatyana\source\repos\StringKata\StringKata\obj\Debug\net5.0\StringKata.pdb
+C:\Users\Tatyana\source\repos\StringKata\StringKata\obj\Debug\net5.0\StringKata.csproj.AssemblyReference.cache
